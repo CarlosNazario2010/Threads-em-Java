@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\carlosNazario\Desktop\ProgramacaoParaea\.metadata\.plugins\org.eclipse.jdt.core
-942215905.index
-1865797976.index
-4207087167.index
